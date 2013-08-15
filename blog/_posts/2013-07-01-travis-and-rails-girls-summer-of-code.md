@@ -7,85 +7,65 @@ layout: post
 permalink: blog/2013-07-01-travis-and-rails-girls-summer-of-code
 ---
 
-### or: How to get from a dream to 19 three-months-scholarships - in under 3 months.
+### Or: How to get from a dream to 19 sponsored scholarships in under 3 months.
 
 A Summer of Code sponsoring 10 teams of
 [students from all over the world](http://railsgirlssummerofcode.org/students)
-working on Open Source projects full-time for three months? - Hell, yes!
+working on Open Source projects full-time for three months. Sounds like a great idea? Why of course it does!
 
-[Rails Girls Summer of Code](http://railsgirlssummerofcode.org/campaign)
-(RGSoC) does exactly this: support women who fell in love with programming at e.g. a
-[Rails Girls Workshop](http://railsgirls.com) and kept on coding.
+That's the idea of [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/campaign), to support women who fell in love with programming, for instance at 
+a [Rails Girls Workshop](http://railsgirls.com) workshop, and who kept on coding for the joy of it.
 
-[Travis](http://travis-ci.org) has about been rooted in the community very
-deeply, so we've decided to support this truly wonderful program \- with all
-our hearts.
+As [Travis CI](http://travis-ci.org) has always been deeply rooted in the community, supporting this project with all our hearts has been a no-brainer for us!
 
-Well ... that's actually not even the full truth:
+[Sven](https://twitter.com/svenfuchs) rolled up his sleeves and has been working on getting Rails Girls Summer of Code off the ground. I, [Anika](https://twitter.com/langziehohr), joined the Travis CI team in June to help organize the Summer of Code.
 
-Not just with our hearts! Travis CI GmbH is going to found [Travis Foundation](http://foundation.travis-ci.org),
-an non-profit organization aiming to support cool initiatives and projects
-just like this one. (That's another, longer story and we'll tell you all about
-here soon!)
+### What a crazy journey: raising $81,000 for a great cause in just about two weeks
 
-[Sven](https://twitter.com/svenfuchs) has since then worked full-hearted and
-full-time for RGSoC and getting Travis Foundation started, and in order to make
-sure we have the capacities to really get stuff done, I, [Anika](https://twitter.com/langziehohr),
-have come on board with Travis in June (whohoo! Another great story to blog about soon!).
-
-We are supporting the Rails Girls Summer of Code team where
-we can and make sure everything runs smoothly. Travis-style: make amazing stuff happen :)
-
-### A crazy journey: raising 81k in two weeks
-
-The whole idea was born in March, at a Rails Girls Berlin coaches & organizers
-meeting: Appearantly whenever there is cake and coffee around magic starts happening ;)
+The idea was born in March, at a meeting of Rails Girls Berlin coaches and organizers. Apparantly whenever there is cake and coffee around magic starts happening ;)
 
 ![rgsoc-cut](https://f.cloud.github.com/assets/1711357/727474/4d9eeafa-e19a-11e2-98a2-d223cfed77c7.png)
 
-RGSoC does not only provide [10 teams](http://railsgirlssummerofcode.org/students)
-the chance to really get deeper into coding and get in touch with our amazing
-Open Source community. It also adds a more long-term goal to the Rails Girls
-movement. From now on students will start planning ahead and are even more
-motivated to keep on learning so they can be well prepared for next year's
-Summer of Code!
+Rails Girls Summer of Code provides [10 sponsored teams and 8 volunteering Teams](http://teams.railsgirlssummerofcode.org/teams)
+with the chance to dive deeper into coding and to get in touch with the amazing
+Open Source community. On top of that it gives the Rails Girls movement a longer-term goal of supporting women in technology.
 
-Being the first Rails Girls students who make a meaningful contribution to
-projects like Rails, Sinatra, Bundler, Spree ... We think they will become
-amazing role models for others to look up to!
+From now on students can start planning ahead and keep on learning so they'll be well prepared for next year's Summer of Code!
 
-Because we all were so fascinated by this idea Sven gave a lightning talk at a
+Being the first Rails Girls students who make a meaningful contribution to projects like Rails, Sinatra, Bundler, Spree and others we think they'll lead the way for other women to follow suit and contribute actively to open source projects and find a career in software development.
+
+Because we were all so fascinated by this idea, Sven gave a lightning talk at a
 [Rails Girls workshop](http://railsgirlsberlin.de/2013/04/01/review-follow-up-workshop-march-2013)
-at [Wooga](http://wooga.com) in late March. The idea immediately spread like
-wildfire in the community. After that a whole new team formed, rolled up
-their sleeves and started to make this happen.
+at [Wooga](http://wooga.com) in late March. The idea immediately spread like wildfire. A whole new team formed, rolled up their sleeves and started to make this happen.
 
 And the work has paid off:
 
 * Over 140 students applied [from all over the world](http://railsgirlssummerofcode.org/students).
-* Over 280 people & companies donated for the campaing.
+* Over 280 people & companies donated for the campaign.
 * [Sponsorships from amazing companies](http://railsgirlssummerofcode.org/campaign)
-  have been secured. Amongst them community heroes like
+  have sponsored the program. Amongst them community heroes like
   [GitHub](http://github.com),
   [37signals](http://37signals.com),
   [Tilde](http://tilde.io),
   [Google Open Source] (https://developers.google.com/open-source/)
   [SoundCloud](http://soundcloud.com) ...
-* We raised 80,0000 in just two weeks.
-* We could accept 19 students so far. That's 9 more than our original goal which we thought was super ambitious!
-* We will keep the campaign open, just in case we might be able to add some
-  late extra seats (so you could still come on board as a sponsor!).
+* We raised $80,0000 in the first two weeks alone.
+* We were able to accept 19 students into the program so far. That's 9 more than our original goal which we thought was super ambitious already!
+* We managed to organize for the students no less than [49 free tickets to some of the best Ruby conferences](http://railsgirlssummerofcode.org/blog/the-big-conferenc-raffle-winners/) on 3 different continents 
 
-**Wow. Just ... wow. Wowwowow ...**
+### Drumroll: Travis Foundation
 
 Who would have thought that the initial idea could explode into such an amazing
 project this quickly, supported by so much love and effort!
 
-With RGSoC we are super proud to support a first, fantastic
-project with Travis Foundation.
+To make even more of these wonderful initiatives and projects happen  - Travis CI is setting up and sponsoring the [Travis Foundation](http://foundation.travis-ci.org), an non-profit organization aiming for diversity in tech, and to work hard on making open source an even better place. (That's another, longer story and we'll tell you all about here soon!)
 
-And unlike the shadows under our eyes: Rails Girls Summer of Code looks really,
-really good!
+Travis Foundation is very proud to support Rails Girls Summer of Code as its first, fantastic project.
 
-Check out the [teams activity](http://teams.railsgirlssummerofcode.org) stream,
-or follow the [Rails Girls Summer of Code blog](http://railsgirlssummerofcode.org/blog).
+It's only been a month since Rails Girls Summer of Code started. Since then, it has already grown into a successful and widely loved project!
+
+<img src="https://f.cloud.github.com/assets/1711357/792560/1d1326d8-eba6-11e2-8fb3-2de8298fb07b.png" width="600">
+
+Check out the [teams' activity](http://teams.railsgirlssummerofcode.org) streams,
+read the [Rails Girls Summer of Code blog](http://railsgirlssummerofcode.org/blog) or
+follow the project [on Twitter](https://twitter.com/railsgirlssoc).
