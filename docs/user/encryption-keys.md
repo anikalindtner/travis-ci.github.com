@@ -7,8 +7,7 @@ permalink: encryption-keys/
 Travis generates a pair of private and public RSA keys which can be used
 to encrypt information which you will want to put into the `.travis.yml` file and
 still keep it private. Currently we allow encryption of
-[environment variables](/docs/user/build-configuration/#Secure-environment-variables)
-and notification settings.
+[environment variables](/docs/user/build-configuration/#Secure-environment-variables), notification settings, and deploy api keys.
 
 ## Usage
 
@@ -36,3 +35,11 @@ You can fetch the public key with Travis API, using `/repos/:owner/:name/key` or
 `/repos/:id/key` endpoints, for example:
 
     https://api.travis-ci.org/repos/travis-ci/travis-ci/key
+
+You can also use the `travis` tool for retrieving said key:
+
+    travis pubkey
+
+Or, if you're not in your project directory:
+
+    travis pubkey -r owner/project

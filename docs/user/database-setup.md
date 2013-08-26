@@ -55,10 +55,7 @@ start it manually in a `before_install` step, you will still have to do it the s
 
 ### MySQL
 
-MySQL on Travis CI is **started on boot**, binds to 127.0.0.1 and requires authentication. You can connect using "root" username and blank password.
-
-If specify a blank username, keep in mind that for some clients, this is the same as "root" but for some it means "anonymous user". When in doubt,
-try switching to `root` username.
+MySQL on Travis CI is **started on boot**, binds to 127.0.0.1 and requires authentication. You can connect using the username "travis" and a blank password.
 
 You do have to create the `myapp_test` database first. Run this as part of your build script:
 
@@ -73,7 +70,7 @@ You do have to create the `myapp_test` database first. Run this as part of your 
     test:
       adapter: mysql2
       database: myapp_test
-      username: root
+      username: travis
       encoding: utf8
 
 
@@ -135,7 +132,11 @@ MongoDB is **not started on boot**. To make Travis CI start the service for you,
 
 to your `.travis.yml`.
 
-MongoDB binds to 127.0.0.1, uses stock configuration and requires no authentication or database creation up front.
+MongoDB binds to 127.0.0.1 and requires no authentication or database creation up front.
+
+However, authentication will be enabled upon adding an admin user as mongod is started with the `--auth` parameter.
+
+Note: Admin users are users created on the admin database.
 
 In cases you need to create users for your database, you can do it using a `before_script` in your `.travis.yml` file::
 
